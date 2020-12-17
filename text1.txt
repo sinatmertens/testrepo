@@ -1,5 +1,0 @@
-Hello World!2
-
-Das ist meine erste Textdatei.
-
-Das ist die 5. Zeile
